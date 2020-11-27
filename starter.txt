@@ -1,0 +1,2 @@
+
+mkdir templates assets assets/static assets/media assets/static/css assets/static/images assets/static/js
